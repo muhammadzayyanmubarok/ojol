@@ -97,7 +97,7 @@ function App() {
           }
         </Row>
       </Container>
-      <div className="google-merah">ini tulisan merah</div>
+      {/* <div className="google-merah">ini tulisan merah</div>
       <div id="google-hijau">ini tulisan biru</div>
 
       <div className="google-merah">
@@ -106,7 +106,7 @@ function App() {
           hasil {angka}
         <button onClick={penambahan}> +</button>
         <button onClick={() => penambahanDua(2)}> +2</button>
-      </div>
+      </div> */}
     </>
   );
 }
